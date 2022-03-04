@@ -6,7 +6,7 @@
 
 # Git and Github Session
 
-Checkout the poster 📽
+![Watch The Video](https://github.com/rait-acm/acm-github-practice/blob/main/images/coveree.png)
 
 
 # ACM Practice Pull Requests
