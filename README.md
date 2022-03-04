@@ -21,7 +21,7 @@ Repository for you to raise a Pull Request to practice open-source! 🎉
 2. Make any changes in your forked repository.
 3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
-You can ask questions by raising an [issue](https://github.com/Hemang417/Github-Session/issues).
+You can ask questions by raising an [issue](https://github.com/rait-acm/acm-github-practice/issues).
 
 ## How to clone the repository and make changes locally
 
@@ -30,13 +30,13 @@ You can ask questions by raising an [issue](https://github.com/Hemang417/Github-
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
+  git clone https://github.com/YOUR_GITHUB_USERNAME/acm-github-practice.git
 
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
 bash
-  cd hacktoberfest-practice
+  cd acm-github-practice
 
 
 - Make a new branch. Your username would make a good branch because it's unique.
@@ -47,7 +47,7 @@ bash
 
 - Open the `README.md` file
 
-- *Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.*
+- *Add your name to the section that matches your Initial in [this list](https://github.com/rait-acm/acm-github-practice/blob/main/README.md). Then, add your name in alphabetical order. Then save your changes.*
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -99,7 +99,7 @@ bash
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 bash
-ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+ERROR: Permission to rait-acm/acm-github-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 
