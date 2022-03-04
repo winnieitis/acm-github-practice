@@ -29,21 +29,21 @@ You can ask questions by raising an [issue](https://github.com/rait-acm/acm-gith
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
-bash
+```
   git clone https://github.com/YOUR_GITHUB_USERNAME/acm-github-practice.git
-
+```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
-bash
+```
   cd acm-github-practice
-
+```
 
 - Make a new branch. Your username would make a good branch because it's unique.
 
-bash
+```
   git checkout -b <name-of-new-branch>
-
+```
 
 - Open the `README.md` file
 
@@ -54,55 +54,55 @@ bash
 
 - Stage your changes.
 
-bash
+```
   git add README.md
-
+```
 
 or
 
-bash
+```
   git add .
-
+```
 
 - Commit the changes.
 
-bash
+```
   git commit -m "Add <your-github-username>"
-
+```
 
 - Check the status of your repository.
 
-bash
+```
   git status
-
+```
 
 - The response should be like this:
 
-bash
+```
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
-
+```
 
 - Pushing your repository to GitHub.
 
-bash
+```
   git push origin <name-of-your-branch>
-
+```
 
 or
 
-bash
+```
   git branch -M main
   git push -u origin main
-
+```
 
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
-bash
+```
 ERROR: Permission to rait-acm/acm-github-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
-
+```
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
