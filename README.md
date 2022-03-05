@@ -191,3 +191,5 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *Y*
 
 - ### *Z*
+
+- [Zaid Khan](https://github.com/ZaidKhan2002)
